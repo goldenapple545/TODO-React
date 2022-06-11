@@ -1,0 +1,4 @@
+npm install - installing dependencies
+
+npm run start - start webpack-dev-server
+npm run build - compile project 
