@@ -11,7 +11,7 @@
   "keywords": [
     "button"
   ],
-  "author": "Luiza Vagapova",
+  "author": "Egor Vikturov",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
